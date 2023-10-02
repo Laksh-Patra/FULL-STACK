@@ -1,0 +1,21 @@
+p{
+    color:hsla(225, 80%, 20%, 0.6);
+    font-size: 2rem;
+    background-color: bisque;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ,'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: medium;
+    font-style: oblique;
+    font-variant: small-caps;
+    font-weight: 900;
+    letter-spacing: 0.1em;
+    /* line-height: 0.8em; relative to font size */
+    text-align: justify;
+    text-indent: 1rem;
+    text-decoration:underline overline;
+    white-space: nowrap;
+    overflow: scroll;
+    text-overflow: clip;
+    text-shadow: 2px 6px;
+    
+
+}

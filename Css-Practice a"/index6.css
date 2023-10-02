@@ -1,0 +1,33 @@
+:link{
+    color: red;
+}
+a:visited{
+    color:green;
+}
+a:hover{
+    color: hotpink;
+    font-size: x-large;
+}
+a:active{
+    color:blue;
+}
+div.a{
+    background-color: green;
+    color: white;
+    padding: 25px;
+    text-align: center;
+}
+div.a:hover{
+    background-color: blue;
+}
+div.showblkonhover p{
+  display: none;
+  background-color: yellow;
+  padding: 20px;  
+}
+div.showblkonhover:hover p{
+    display: block;
+}
+p:first-child{
+    color: red;
+}
