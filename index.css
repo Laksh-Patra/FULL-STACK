@@ -1,0 +1,34 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+    border: 3px solid black;
+}
+.gray{
+    color: red;
+}
+
+
+body{
+    font-size: 25px;
+   
+}
+h1{
+    color: blue;
+}
+
+p span{
+    text-transform: uppercase;
+    background-color: gold;
+
+}
+.highlight{
+    background-color: aquamarine;
+}
+
+p{
+    color: green;
+}
+
+
+#second{
+    font-style: italic;
+}
