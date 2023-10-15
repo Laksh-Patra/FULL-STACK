@@ -1,0 +1,21 @@
+.container{
+    width: 400px;
+    height: 200px;
+    background-color: beige;
+    border:2px solid black;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin: auto;
+    transition: all 3s  linear 1s;
+
+}
+.container:hover{
+
+    transform:scale(1,5);
+}
+p{
+    font-size: 40px;
+}
